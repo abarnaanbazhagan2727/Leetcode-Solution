@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -102,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
