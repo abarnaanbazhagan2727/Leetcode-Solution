@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
