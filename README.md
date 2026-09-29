@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
