@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
