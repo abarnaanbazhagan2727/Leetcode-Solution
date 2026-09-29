@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3151-special-array-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3151-special-array-i) |
 | [3731-find-missing-elements](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
