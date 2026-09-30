@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3151-special-array-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3151-special-array-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [3731-find-missing-elements](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 ## Design
 |  |
 | ------- |
