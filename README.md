@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
