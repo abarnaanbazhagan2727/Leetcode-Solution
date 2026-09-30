@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1051-height-checker) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3151-special-array-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3151-special-array-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3731-find-missing-elements](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -92,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
 | ------- |
