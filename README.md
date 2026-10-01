@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +194,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
