@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1074-number-of-submatrices-that-sum-to-target) |
