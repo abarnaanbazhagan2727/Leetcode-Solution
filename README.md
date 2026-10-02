@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0054-spiral-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
