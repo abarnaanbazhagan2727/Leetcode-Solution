@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1051-height-checker) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
@@ -241,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
