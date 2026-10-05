@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
