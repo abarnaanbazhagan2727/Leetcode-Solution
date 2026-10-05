@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1051-height-checker) |
