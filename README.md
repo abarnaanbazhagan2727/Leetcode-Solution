@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
