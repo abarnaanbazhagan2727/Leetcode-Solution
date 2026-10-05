@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
