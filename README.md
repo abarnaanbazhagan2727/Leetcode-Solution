@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0796-rotate-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
