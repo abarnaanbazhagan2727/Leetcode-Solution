@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
