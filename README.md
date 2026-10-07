@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0917-reverse-only-letters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 ## Design
