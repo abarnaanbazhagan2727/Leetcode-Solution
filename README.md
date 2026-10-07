@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1177-can-make-palindrome-from-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1177-can-make-palindrome-from-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
