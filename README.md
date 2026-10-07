@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2965-find-missing-and-repeated-values](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3151-special-array-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3151-special-array-i) |
 | [3731-find-missing-elements](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2965-find-missing-and-repeated-values](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2965-find-missing-and-repeated-values](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
