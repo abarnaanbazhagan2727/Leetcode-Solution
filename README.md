@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0398-random-pick-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -304,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0796-rotate-string) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
