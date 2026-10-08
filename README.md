@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/1208-get-equal-substrings-within-budget) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Trie
 |  |
 | ------- |
