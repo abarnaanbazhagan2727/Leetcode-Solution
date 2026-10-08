@@ -19,6 +19,9 @@ class Solution {
                     if (r == needle.length()) {
                         return l - r;
                     }
+                    if (l == haystack.length()) {
+                        return -1;
+                    }
                 }
                 else {
                     l = l - r + 1;
