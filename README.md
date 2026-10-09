@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0075-sort-colors) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0049-group-anagrams) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
