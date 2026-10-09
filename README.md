@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0398-random-pick-index) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
