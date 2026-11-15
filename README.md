@@ -396,4 +396,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
