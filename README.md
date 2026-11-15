@@ -402,5 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0601-human-traffic-of-stadium) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/abarnaanbazhagan2727/Leetcode-Solution/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
